@@ -1,7 +1,3 @@
-Here’s a sample `README.md` for your Canva bulk automation GitHub repository:
-
----
-
 # Canva Bulk Automation
 
 This repository automates the process of creating designs in bulk using Canva. By leveraging **Selenium** for web automation and **Pandas** for handling Excel files, this tool allows you to input data from an Excel sheet and automatically populate Canva templates.
@@ -47,6 +43,3 @@ This repository automates the process of creating designs in bulk using Canva. B
 
 This script is provided as-is, and Canva’s terms of service should be respected. This tool is not affiliated with or endorsed by Canva.
 
----
-
-This README provides a clear guide for using the Canva bulk automation tool and includes the necessary steps for installation and customization.
